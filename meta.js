@@ -70,6 +70,10 @@ module.exports = {
         }
       ]
     },
+    "flow": {
+      "when": "confirm",
+      "message": "Use flow?"
+    },
     "unit": {
       "type": "confirm",
       "message": "Setup unit tests with Karma + Mocha?"
