@@ -71,7 +71,7 @@ module.exports = {
       ]
     },
     "flow": {
-      "when": "confirm",
+      "type": "confirm",
       "message": "Use flow?"
     },
     "unit": {
